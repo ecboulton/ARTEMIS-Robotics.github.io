@@ -1,0 +1,5 @@
+This website is up to date as of April 2019. I definitely need to add newer things that we've done.
+
+HTML and CSS are spaghetti code (this was my first actual web dev project) and I'll get around to fixing them someday. I also didn't know JS at the time so if we want extra functionality, I'm happy to introduce that.
+
+Also, when making the site live (if ever), we need to go through the school so they don't get mad
